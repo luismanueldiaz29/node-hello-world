@@ -5,3 +5,8 @@
 ```
 docker-compose up --build
 ```
+
+### rutas
+
+- /
+- /api/hello
